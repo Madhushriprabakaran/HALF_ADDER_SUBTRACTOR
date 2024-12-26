@@ -97,3 +97,4 @@ Diff = A’B+AB’ =A ⊕ B Borrow = A’B
 
 **Result:**
 The half adder and half subtractor circuit was verified.
+
